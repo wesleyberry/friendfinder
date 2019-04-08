@@ -1,0 +1,8 @@
+.jumbotron {
+    text-align: center
+}
+.submitDiv {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+}
